@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require 'backlog/cli'
+
+Backlog::Cli::Commands.start
